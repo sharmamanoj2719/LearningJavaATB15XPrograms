@@ -6,6 +6,6 @@ public class Lab010_IQ {
         int _ = 65;
         int $ = 65;
         int JAVA_Learning_For_ME = 65;
-
+        System.out.println();
     }
 }
