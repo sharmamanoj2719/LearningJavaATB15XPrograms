@@ -1,4 +1,4 @@
-package ex_03_Java_Basics;
+package ex_03_Java_Variables;
 
 public class Lab011_InterviewQ {
     public static void main(String[] args) {

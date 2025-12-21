@@ -1,4 +1,4 @@
-package ex_03_Java_Basics;
+package ex_03_Java_Variables;
 
 public class Lab004_MultiLineComments {
     /* 1.Multi Line Program
