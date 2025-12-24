@@ -7,5 +7,9 @@ public class Lab016_Byte {
 
         System.out.println(age);
         System.out.println(c);
+
+
+        //string s = "Manoj"; // Non Primitive
+       // string is bunch of char
     }
 }
