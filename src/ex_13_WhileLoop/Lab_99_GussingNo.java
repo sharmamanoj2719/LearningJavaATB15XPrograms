@@ -22,7 +22,7 @@ public class Lab_99_GussingNo {
         while(true){
 
             if (!scanner.hasNextInt()) {
-                System.out.println("Invalid input! Please enter interger number only!");
+                System.out.println("Invalid input! Please enter integer number only!");
                 scanner.next(); // Consume invalid token
                 continue;
             }
