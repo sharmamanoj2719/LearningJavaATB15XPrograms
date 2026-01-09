@@ -2,7 +2,7 @@ package ex_12_ForLoop;
 
 import java.util.Scanner;
 
-public class Lab_92_For_Loop_Continue {
+public class Lab_94_For_Loop_Continue {
     public static void main(String[] args) {
         Scanner Scanner = new Scanner(System.in);
         System.out.println("Please enter a No. ");
