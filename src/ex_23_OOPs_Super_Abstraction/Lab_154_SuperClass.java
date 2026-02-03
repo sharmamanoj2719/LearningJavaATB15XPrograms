@@ -49,10 +49,7 @@ class TestCase extends BaseClass{
         System.out.println(this.a);
 
 
-
-
     }
-
 
 
 }
