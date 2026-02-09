@@ -63,3 +63,4 @@ class Car extends Vehicle {
         super.noTest();
     }
 }
+

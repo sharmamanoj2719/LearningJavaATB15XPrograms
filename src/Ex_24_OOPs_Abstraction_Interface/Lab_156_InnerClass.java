@@ -1,4 +1,4 @@
-package OOPs_Abstraction;
+package Ex_24_OOPs_Abstraction_Interface;
 
 public class Lab_156_InnerClass {
 }
